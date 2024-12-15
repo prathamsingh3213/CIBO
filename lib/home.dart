@@ -333,18 +333,7 @@ class HomeState extends State<Home> {
                 leading: Icon(Icons.star),
                 title: Text('Pratham'),
               ),
-              ListTile(
-                leading: Icon(Icons.star),
-                title: Text('Vikas'),
-              ),
-              ListTile(
-                leading: Icon(Icons.star),
-                title: Text('Karitkeya'),
-              ),
-              ListTile(
-                leading: Icon(Icons.star),
-                title: Text('Abhishek'),
-              ),
+          
             ],
           ),
           actions: [
